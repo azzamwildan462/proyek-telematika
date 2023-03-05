@@ -17,7 +17,8 @@ find_package(catkin REQUIRED COMPONENTS
   image_transport
 )
 
-find_package(Open_CV)
+find_package(yaml-cpp REQUIRED)
+
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
@@ -158,7 +159,7 @@ include_directories(
 
 add_executable(vision_capture src/vision_capture.cpp)
 add_dependencies(vision_capture ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(vision_capture ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
+target_link_libraries(vision_capture ${catkin_LIBRARIES} ${OpenCV_LIBRARIES} ${YAML_CPP_LIBRARIES})
 
 add_executable(realsense_main src/realsense_main.cpp)
 add_dependencies(realsense_main ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
