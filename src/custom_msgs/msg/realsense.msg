@@ -1,0 +1,2 @@
+geometry_msgs/Point32 pos3d
+std_msgs/String object
