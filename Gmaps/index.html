@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title>Simple Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+    <link rel="stylesheet" type="text/css" href="./devgoogle.css" />
+    <script type="module" src="./devgoogle.js"></script>
+  </head>
+  <body>
+    <div id="floating-panel">
+      <b>Mode of Travel: </b>
+      <select id="mode">
+        <option value="DRIVING">Driving</option>
+        <option value="WALKING">Walking</option>
+        <option value="TRANSIT">Transit</option>
+      </select>
+    </div>
+    <div id="floating-panel2">
+      <b>Start: </b>
+      <select id="start">
+        <option value="Semolowaru">Semolowaru</option>
+        <option value="Keputih">Keputih</option>
+        <option value="Klampis">Klampis</option>
+        <option value="Mulyorejo">Mulyorejo</option>
+        <option value="ITS">ITS</option>
+      </select>
+      <b>End: </b>
+      <select id="end">
+        <option value="Semolowaru">Semolowaru</option>
+        <option value="Keputih">Keputih</option>
+        <option value="Klampis">Klampis</option>
+        <option value="Mulyorejo">Mulyorejo</option>
+        <option value="ITS">ITS</option>
+      </select>
+    </div>
+
+    <div id="map"></div>
+    <script 
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJZ8bkovHa1CKUxRl1S8fvNoWHJmiRxZk&region=ID&callback=initMap&v=weekly"
+      defer
+    ></script>
+  </body>
+</html>
