@@ -4,3 +4,9 @@ Camera:
 Realsense:
   min_distance: 50
   max_distance: 500
+
+Hardware:
+  toggle0_pin: 1
+  toggle1_pin: 2
+  toggle2_pin: 30
+  toggle3_pin: 4

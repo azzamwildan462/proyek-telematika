@@ -75,8 +75,6 @@ void load_config()
     YAML::Node static_config = YAML::LoadFile(static_config_file);
     YAML::Node dynamic_config = YAML::LoadFile(dynamic_config_file);
 
-    printf("asu\n");
-
     strcpy(camera_path, static_config["Camera"]["path"].as<std::string>().c_str());
 
     printf("path: %s\n", camera_path);
