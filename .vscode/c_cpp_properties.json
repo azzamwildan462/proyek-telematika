@@ -6,7 +6,8 @@
                 "${workspaceFolder}/**",
                 "/opt/ros/noetic/lib/",
                 "/opt/ros/noetic/include/",
-                "/usr/include/opencv4/"
+                "/usr/include/opencv4/",
+                "/usr/src/linux/include/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
