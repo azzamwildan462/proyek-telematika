@@ -7,7 +7,10 @@
                 "/opt/ros/noetic/lib/",
                 "/opt/ros/noetic/include/",
                 "/usr/include/opencv4/",
-                "/usr/src/linux/include/**"
+                "/usr/src/linux/include/",
+                "/usr/src/linux/",
+                "/usr/src/linux-zen/include/",
+                "/usr/src/linux-zen/"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
