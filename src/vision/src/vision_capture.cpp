@@ -77,11 +77,13 @@ void load_config()
 
     strcpy(camera_path, static_config["Camera"]["path"].as<std::string>().c_str());
 
-    printf("path: %s\n", camera_path);
+    printf("camera path: %s\n", camera_path);
 
     camera_params[0] = dynamic_config["Camera"]["Brightness"].as<int>();
     camera_params[1] = dynamic_config["Camera"]["Contrast"].as<int>();
     camera_params[2] = dynamic_config["Camera"]["Saturation"].as<int>();
+
+    printf("camera params: %d %d %d\n", camera_params[0], camera_params[1], camera_params[2]);
 }
 
 void set_camera_param(const char *path, const char *param, int value)

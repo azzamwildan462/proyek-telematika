@@ -9,6 +9,8 @@
 #include "ros/ros.h"
 #include "custom_msgs/realsense.h"
 #include "std_msgs/UInt8.h"
+#include <termios.h>
+#include <sys/ioctl.h>
 
 #define TOGGLE_0 0b0000
 #define TOGGLE_1 0b0010
@@ -41,6 +43,7 @@ void cllbck_sub_hardware(const std_msgs::UInt8ConstPtr &msg);
 
 /* Another prototypes */
 void audio_outPlay(const char *text);
+uint8_t kbhit();
 
 int main(int argc, char **argv)
 {
@@ -50,7 +53,7 @@ int main(int argc, char **argv)
 
     sub_realsense_final = NH.subscribe("realsense_results", 1, cllbck_sub_realsense);
     sub_hardware = NH.subscribe("hardware_toggle", 1, cllbck_sub_hardware);
-    tim_50hz = NH.createTimer(ros::Duration(0.02), cllbck_tim50hz);
+    tim_50hz = NH.createTimer(ros::Duration(0.1), cllbck_tim50hz);
 
     MTS.spin();
 
@@ -61,15 +64,32 @@ int main(int argc, char **argv)
 
 void cllbck_tim50hz(const ros::TimerEvent &event)
 {
-    static double last_time_speak = 0;
-
-    if (ros::Time::now().toSec() - last_time_speak > 1)
+    if (kbhit())
     {
-        if (toggle_0)
-            audio_outPlay(realsense_object);
+        char key = std::cin.get();
 
-        last_time_speak = ros::Time::now().toSec();
+        switch (key)
+        {
+        case 'k':
+            audio_outPlay("bermain api");
+            break;
+        case 'f':
+            audio_outPlay("memasak air");
+            break;
+        case 'i':
+            audio_outPlay("ikan dalam kolam");
+            break;
+        }
     }
+    // static double last_time_speak = 0;
+
+    // if (ros::Time::now().toSec() - last_time_speak > 1)
+    // {
+    //     if (toggle_0)
+    //         audio_outPlay(realsense_object);
+
+    //     last_time_speak = ros::Time::now().toSec();
+    // }
 }
 
 void cllbck_sub_realsense(const custom_msgs::realsenseConstPtr &msg)
@@ -91,6 +111,26 @@ void cllbck_sub_hardware(const std_msgs::UInt8ConstPtr &msg)
 void audio_outPlay(const char *text)
 {
     char cmd[128];
-    sprintf(cmd, "gtts-cli '%s' -l id --output aud_temp.wav", text);
+    sprintf(cmd, "cd /home/wildan/docker_bridge && gtts-cli '%s' -l id -o out.mp3", text);
     system(cmd);
+}
+
+uint8_t kbhit()
+{
+    static const int STDIN = 0;
+    static bool initialized = false;
+
+    if (!initialized)
+    {
+        termios term;
+        tcgetattr(STDIN, &term);
+        term.c_lflag &= ~ICANON;
+        tcsetattr(STDIN, TCSANOW, &term);
+        setbuf(stdin, NULL);
+        initialized = true;
+    }
+
+    int bytesWaiting;
+    ioctl(STDIN, FIONREAD, &bytesWaiting);
+    return bytesWaiting;
 }
