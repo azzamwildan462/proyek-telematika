@@ -1,7 +1,6 @@
 import cv2 as cv
 import numpy as np
 import pytesseract
-from gtts import gTTS
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
@@ -59,12 +58,6 @@ while True:
   #textfile.close()
   
   textlist = textfile.readlines()
-  if text != "":
-      audiofile = gTTS(text=text, lang=language, slow=False)
-      #audiofile.save("audiofile.mp3")
-      with open('audiofile.mp3', 'ab') as f:
-          audiofile.write_to_fp(f)
-      #os.system("start audiofile.mp3")
 
   key = cv.waitKey(200)
   
