@@ -7,14 +7,54 @@
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet">
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
 <style>
+
 body { margin: 0; padding: 0; }
 #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+.input-button-origin{
+  position: absolute;
+  top: 15px;
+  right: 30px;
+  left: 320px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+  z-index: 10;
+}
+.input-button-destination{
+  position: absolute;
+  top: 60px;
+  right: 30px;
+  left: 320px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+  z-index: 10;
+}
+.input-button-icon-origin{
+    background-image:url("mic1.png")}
+.input-button-icon-destination{
+    background-image:url("mic1.png")}
 </style>
 </head>
 <body>
-<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.js"></script>
-<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.css" type="text/css">
-<div id="map"></div>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.css" type="text/css">
+<div id="map">
+  <div id='mapbox-directions-origin-input'>
+    <button class='input-button-origin input-button-icon-origin '></button>
+    <div id="mapbox-directions-destination-input">
+    <button class=' input-button-destination  input-button-icon-destination'></button>
+</div>
 <script>
 	mapboxgl.accessToken = 'pk.eyJ1IjoiaGVydHp6MiIsImEiOiJjbGZsNndwYmQwMjV1M3JvNzN1eDI4bXB4In0.vQkMDQvehxZD-Y-En67aMw';
     const map = new mapboxgl.Map({
@@ -31,8 +71,12 @@ body { margin: 0; padding: 0; }
         language: 'id'
     });
 
-    map.addControl(directions, 'top-left');
+    directions.on('route', function(event) {
+    console.log('Directions JSON:', event.route);
+});
 
+    map.addControl(directions, 'top-left');
+    
     const synth = window.speechSynthesis;
 
     directions.on('route', function(event) {
@@ -40,13 +84,84 @@ body { margin: 0; padding: 0; }
             const instruction = `${step.maneuver.instruction}, jarak ${step.distance.toFixed(0)} meter.`;
             return instruction;
         });
-
+        console.log('Instructions:', instructions);
         const utterances = instructions.map(instruction => {
             const utterance = new SpeechSynthesisUtterance(instruction);
             utterance.lang = 'id-ID';
             synth.speak(utterance);
         });
     });
+
+    const inputButton = document.querySelector('.input-button-origin');
+    inputButton.addEventListener('click', startSpeechRecognition);
+
+    const inputButton2   = document.querySelector('.input-button-destination');
+    inputButton2.addEventListener('click', startSpeechRecognition2);
+
+
+   function startSpeechRecognition() {
+  const recognition = new webkitSpeechRecognition();
+  recognition.lang = 'id-ID';
+  recognition.start();
+
+  recognition.onresult = function(event) {
+    const originInput = document.querySelector('#mapbox-directions-origin-input');
+    const transcript = event.results[0][0].transcript;
+    console.log('Transcript:', transcript);
+    originInput.value = transcript; // set the value of the input field to the transcript
+    directions.setOrigin(transcript); // set the origin using the transcript
+    recognition.stop();
+  }
+
+  recognition.onend = function() {
+    const originInput = document.querySelector('#mapbox-directions-origin-input');
+    if (originInput) {
+      console.log('Voice input ended.');
+    }
+  }
+}
+
+ function startSpeechRecognition2() {
+  const recognition = new webkitSpeechRecognition();
+  recognition.lang = 'id-ID';
+  recognition.start();
+
+  recognition.onresult = function(event) {
+    const DestinationInput = document.querySelector('#mapbox-directions-destination-input');
+    const transcript = event.results[0][0].transcript;
+    console.log('Transcript:', transcript);
+    DestinationInput.value = transcript; // set the value of the input field to the transcript
+    directions.setDestination(transcript); // set the origin using the transcript
+    recognition.stop();
+  }
+
+  recognition.onend = function() {
+    const originInput = document.querySelector('#mapbox-directions-destination-input');
+    if (originInput) {
+      console.log('Voice input ended.');
+    }
+  }
+}
+
+
+
+navigator.permissions.query({ name: 'microphone' })
+  .then(function(permissionStatus) {
+    if (permissionStatus.state === 'granted') {
+      inputButton.disabled = false;
+    } else {
+      permissionStatus.onchange = function() {
+        console.log('Microphone permission status:', permissionStatus.state);
+        if (permissionStatus.state === 'granted') {
+          inputButton.disabled = false;
+        }
+      };
+    }
+  });
+
+
+    
 </script>
 </body>
 </html>
+
