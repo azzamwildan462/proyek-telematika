@@ -1,6 +1,7 @@
 import cv2 as cv
 import numpy as np
 import pytesseract
+import string
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
@@ -14,6 +15,8 @@ key = None
 print('START')
 cap = cv.VideoCapture(0)
 language = 'id'
+
+output_file = "filtered_output.txt"
 
 while True:
   ret , frame = cap.read()
@@ -50,13 +53,26 @@ while True:
   masked_frame = cv.bitwise_and(frame,frame,mask = mask)
   cv.imshow('Masked',masked_frame)
   
-  text = pytesseract.image_to_string(masked_frame,lang='eng',config='-c tessedit_char_whitelist=" ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"')
-  print(text)
-
-  textfile = open("fileoutput.txt", "a+")
+  text = pytesseract.image_to_string(frame,lang='eng',config='-c tessedit_char_whitelist=" ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"')
+  #print(text)
+  
+  textfile = open("output_unfiltered.txt", "a+")
   textfile.write(text)
   #textfile.close()
   
+  text=text.lower()
+  
+  with open("words.txt", 'r') as file:
+    english_words = [word.strip().lower() for word in file.readlines()]
+    
+  words = text.split()
+  filtered_words = [word for word in words if word.lower() in english_words]
+  filtered_text = ' '.join(filtered_words)
+  
+  with open(output_file, 'a+') as f:
+    f.write(filtered_text)
+    
+  print(filtered_text)
   textlist = textfile.readlines()
 
   key = cv.waitKey(200)
