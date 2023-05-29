@@ -1,7 +1,6 @@
 import cv2 as cv
 import numpy as np
 import pytesseract
-import string
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
@@ -13,7 +12,7 @@ key = None
 # next library Pre-recognition PRLib, leptonica
 
 print('START')
-cap = cv.VideoCapture(0)
+cap = cv.VideoCapture(1)
 language = 'id'
 
 output_file = "filtered_output.txt"
@@ -48,7 +47,7 @@ while True:
   cv.imshow('Processed',frame)
   
   mask = np.zeros(frame.shape[:2], np.uint8)
-  mask[75:500, 125:650] = 255
+  mask[50:400, 100:550] = 255
   
   masked_frame = cv.bitwise_and(frame,frame,mask = mask)
   cv.imshow('Masked',masked_frame)
@@ -75,7 +74,7 @@ while True:
   print(filtered_text)
   textlist = textfile.readlines()
 
-  key = cv.waitKey(200)
+  key = cv.waitKey(100)
   
   if key == (ord('q')):
     break
