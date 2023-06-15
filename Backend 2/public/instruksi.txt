@@ -1,0 +1,297 @@
+Mengemudi ke Barat., jarak 18 meter.
+Belok kanan ke Jalan Keputih Timur., jarak 243 meter.
+Pertahankan kanan ke Jalan Kejawan Putih Tambak., jarak 864 meter.
+Masuki bundaran dan ambil jalan keluar ke-Keempat., jarak 188 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Jalan Laguna Kejawen Putih Tambak., jarak 288 meter.
+Putar balik ke kanan ke Jalan Laguna Kejawen Putih Tambak menuju Jalan Laguna Kejawen Putih Tambak., jarak 76 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 275 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 79 meter.
+Belok kiri agar tetap di Jalan Kejawan Putih Indah 1., jarak 46 meter.
+Tujuan Anda berada di kanan., jarak 0 meter.
+Mengemudi ke Selatan di Jalan Kejawen Putih Tambak 7., jarak 84 meter.
+Belok kiri ke Jalan Hidrodinamika., jarak 135 meter.
+Belok kanan ke Jalan Kejawan Putih Tambak., jarak 443 meter.
+Pertahankan kanan ke Jalan KH. Ahmad Dahlan., jarak 833 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 245 meter.
+Pertahankan kiri ke Jalan Keputih Tegal Timur., jarak 171 meter.
+Belok kiri ke Jalan Keputih Tegal Timur I., jarak 95 meter.
+Tujuan Anda berada di kanan., jarak 0 meter.
+Mengemudi ke Barat., jarak 20 meter.
+Belok kanan, jarak 101 meter.
+Belok kanan ke Jalan Kejawan Putih Tambak., jarak 270 meter.
+Pertahankan kanan ke Jalan KH. Ahmad Dahlan., jarak 833 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 245 meter.
+Pertahankan kiri ke Jalan Keputih Tegal Timur., jarak 367 meter.
+Anda sudah sampai di tujuan,, jarak 0 meter.
+Mengemudi ke Barat di Jalan Kejawen Mutiara Timur 8., jarak 151 meter.
+Belok kanan ke Jalan Kejawen Mutiara Timur., jarak 473 meter.
+Belok kiri ke Jalan Laguna Kejawen Putih Tambak., jarak 162 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1., jarak 171 meter.
+Belok kiri ke Jalan Kejawan Putih Tambak., jarak 215 meter.
+Belok kiri agar tetap di Jalan Kejawan Putih Tambak., jarak 638 meter.
+Pertahankan kiri ke Jalan KH. Ahmad Dahlan., jarak 829 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 14 meter.
+Pertahankan kiri ke Jalan Keputih Tegal Timur., jarak 804 meter.
+Belok kiri ke Jalan Raya Keputih Permai., jarak 192 meter.
+Belok kanan ke Jalan Raya Keputih Permai I., jarak 63 meter.
+Belok kiri, jarak 29 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Mengemudi ke Timur., jarak 11 meter.
+Belok kiri, jarak 106 meter.
+Belok kiri ke Jalan Keputih Makam Blok E., jarak 118 meter.
+Belok kanan ke Jalan Keputih Makam., jarak 243 meter.
+Belok kanan ke Jalan Arief Rahman Hakim., jarak 304 meter.
+Belok kiri ke Jalan KH. Ahmad Dahlan., jarak 573 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Mengemudi ke Barat di Jalan Kejawan Putih Indah 10., jarak 327 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 266 meter.
+Belok kiri ke Jalan Laguna Kejawen Putih Tambak., jarak 162 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1., jarak 171 meter.
+Belok kiri ke Jalan Kejawan Putih Tambak., jarak 215 meter.
+Belok kiri agar tetap di Jalan Kejawan Putih Tambak., jarak 638 meter.
+Pertahankan kiri ke Jalan KH. Ahmad Dahlan., jarak 829 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 14 meter.
+Pertahankan kiri ke Jalan Keputih Tegal Timur., jarak 804 meter.
+Belok kiri ke Jalan Raya Keputih Permai., jarak 235 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Berjalan ke Timur di Jalan Kejawan Putih Indah 10., jarak 295 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 8., jarak 47 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 266 meter.
+Belok kiri ke Jalan Laguna Kejawen Putih Tambak., jarak 162 meter.
+Belok kiri, jarak 64 meter.
+Belok kiri, jarak 107 meter.
+Belok kiri ke Jalan Kejawan Putih Tambak., jarak 215 meter.
+Belok kiri agar tetap di Jalan Kejawan Putih Tambak., jarak 638 meter.
+Pertahankan kiri untuk memasuki Jalan KH. Ahmad Dahlan., jarak 829 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 14 meter.
+Pertahankan kiri untuk memasuki Jalan Keputih Tegal Timur., jarak 804 meter.
+Belok kiri ke Jalan Raya Keputih Permai., jarak 231 meter.
+Anda sudah sampai di tujuan,, jarak 0 meter.
+Berjalan ke Timur di Jalan Kejawan Putih Indah 10., jarak 295 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 8., jarak 47 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 158 meter.
+Belok tajam ke kanan menuju Jalan Kejawen Putih Mutiara 15., jarak 243 meter.
+Belok kanan ke Jalan Kejawen Mutiara Timur 18., jarak 313 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Berjalan ke Timur di Jalan Kejawan Putih Indah 10., jarak 295 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 8., jarak 47 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 266 meter.
+Belok kanan ke Jalan Laguna Kejawen Putih Tambak., jarak 206 meter.
+Belok kiri, jarak 25 meter.
+Belok kanan, jarak 8 meter.
+Belok kiri, jarak 16 meter.
+Belok kanan, jarak 266 meter.
+Belok kanan, jarak 86 meter.
+Pertahankan kiri di cabang., jarak 23 meter.
+Pertahankan kiri untuk memasuki Jalan Raya Laguna Kejawen Putih Barat., jarak 95 meter.
+Belok kiri ke Jalan Kalisari Selatan., jarak 9 meter.
+Pertahankan kanan agar tetap di Jalan Kalisari Selatan., jarak 27 meter.
+Belok kiri ke Jalan Kalisari Permai., jarak 385 meter.
+Belok kiri ke Jalan Kalisari Permai I., jarak 63 meter.
+Belok kiri ke Jalan Kalisari Dharma., jarak 65 meter.
+Belok kanan ke Jalan Kalisari Dharma IX., jarak 39 meter.
+Tujuan Anda berada di kanan., jarak 0 meter.
+Berjalan ke Timur di Jalan Kejawan Putih Indah 10., jarak 295 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 8., jarak 47 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 266 meter.
+Belok kiri ke Jalan Laguna Kejawen Putih Tambak., jarak 177 meter.
+Belok kanan, jarak 67 meter.
+Belok kanan, jarak 157 meter.
+Pertahankan kanan untuk memasuki Jalan Kejawan Putih Tambak., jarak 224 meter.
+Pertahankan kiri agar tetap di Jalan Kejawan Putih Tambak., jarak 322 meter.
+Pertahankan kanan., jarak 13 meter.
+Belok kanan ke Jalan Raya Mulyosari., jarak 1851 meter.
+Pertahankan kanan ke Jalan Temporejo., jarak 302 meter.
+Belok kanan, jarak 546 meter.
+Tujuan Anda berada di kanan., jarak 0 meter.
+Berjalan ke Timur di Jalan Kejawan Putih Indah 10., jarak 295 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 8., jarak 47 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 266 meter.
+Belok kiri ke Jalan Laguna Kejawen Putih Tambak., jarak 177 meter.
+Belok kanan, jarak 67 meter.
+Belok kanan, jarak 157 meter.
+Pertahankan kanan untuk memasuki Jalan Kejawan Putih Tambak., jarak 224 meter.
+Pertahankan kiri agar tetap di Jalan Kejawan Putih Tambak., jarak 322 meter.
+Pertahankan kanan., jarak 13 meter.
+Belok kanan ke Jalan Raya Mulyosari., jarak 1851 meter.
+Pertahankan kanan ke Jalan Temporejo., jarak 342 meter.
+Belok kiri ke Jalan Babatan Pantai VII., jarak 362 meter.
+Belok kanan ke Jalan Raya Babatan Pantai., jarak 18 meter.
+Belok kiri ke Jalan Babatan Pantai Utara IV., jarak 152 meter.
+Belok kiri ke Jalan Babatan Pantai Utara I., jarak 136 meter.
+Anda sudah sampai di tujuan,, jarak 0 meter.
+Berjalan ke Timur di Jalan Kejawan Putih Indah 10., jarak 295 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 8., jarak 47 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 266 meter.
+Belok kiri ke Jalan Laguna Kejawen Putih Tambak., jarak 162 meter.
+Belok kiri, jarak 64 meter.
+Belok kiri, jarak 169 meter.
+Belok kiri, jarak 221 meter.
+Belok kiri ke Jalan Kejawan Putih Tambak., jarak 328 meter.
+Pertahankan kanan., jarak 22 meter.
+Belok kanan ke Jalan Raya Mulyosari., jarak 46 meter.
+Belok kiri ke Jalan Wisma Permai II., jarak 970 meter.
+Belok kanan ke Jalan Wisma Permai III., jarak 125 meter.
+Belok kiri ke Jalan Wisma Permai Tengah I., jarak 235 meter.
+Pertahankan kiri agar tetap di Jalan Wisma Permai Tengah I., jarak 110 meter.
+Belok kanan ke Jalan Wisma Permai Barat., jarak 195 meter.
+Belok kiri, jarak 15 meter.
+Belok kanan ke Jalan Wisma Permai Barat VI., jarak 104 meter.
+Belok kiri ke Jalan Dharmahusada Permai I., jarak 61 meter.
+Belok kiri ke Jalan Dharmahusada Permai V., jarak 80 meter.
+Belok kanan ke Jalan Dharmahusada Permai II., jarak 23 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Berjalan ke Timur di Jalan Kejawan Putih Indah 10., jarak 295 meter.
+Belok kiri ke Jalan Kejawan Putih Indah 8., jarak 47 meter.
+Belok kanan ke Jalan Kejawan Putih Indah 1., jarak 102 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Indah 1., jarak 70 meter.
+Belok kiri ke Jalan Kejawen Mutiara Timur., jarak 266 meter.
+Belok kiri ke Jalan Laguna Kejawen Putih Tambak., jarak 162 meter.
+Belok kiri, jarak 64 meter.
+Belok kiri, jarak 107 meter.
+Belok kiri ke Jalan Kejawan Putih Tambak., jarak 215 meter.
+Belok kiri agar tetap di Jalan Kejawan Putih Tambak., jarak 638 meter.
+Pertahankan kanan untuk memasuki Jalan KH. Ahmad Dahlan., jarak 619 meter.
+Belok kanan ke Jalan Keputih Gang II Pasar., jarak 260 meter.
+Belok kanan ke Jalan Arief Rahman Hakim., jarak 1165 meter.
+Belok kiri, jarak 25 meter.
+Belok kanan ke Jalan Araya Galaksi Bumi Permai A2., jarak 253 meter.
+Belok kiri ke Jalan Galaxy Klampis Asri., jarak 122 meter.
+Pertahankan kiri agar tetap di Jalan Galaxy Klampis Asri., jarak 125 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Mengemudi ke Barat daya di Jalan Raya Laguna Kejawen Putih Timur., jarak 485 meter.
+Belok kiri ke Jalan Keputih Timur., jarak 705 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 354 meter.
+Belok kiri ke Jalan Raya Marina Asri., jarak 610 meter.
+Belok kiri, jarak 164 meter.
+Belok kiri, jarak 236 meter.
+Belok kiri ke Jalan Marina Emas Timur I., jarak 247 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Berjalan ke Barat daya di Jalan Raya Laguna Kejawen Putih Timur., jarak 485 meter.
+Belok kiri ke Jalan Keputih Timur., jarak 705 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 14 meter.
+Pertahankan kanan agar tetap di Jalan Keputih Tegal., jarak 94 meter.
+Belok kiri ke Jalan Marina Emas Barat I., jarak 521 meter.
+Anda sudah sampai di tujuan,, jarak 0 meter.
+Berjalan ke Utara di Jalan Kejawan Putih Tambak., jarak 368 meter.
+Belok kanan agar tetap di Jalan Kejawan Putih Tambak., jarak 215 meter.
+Belok kanan, jarak 107 meter.
+Belok kanan, jarak 64 meter.
+Belok kanan ke Jalan Laguna Kejawen Putih Tambak., jarak 171 meter.
+Belok kanan ke Jalan Kejawen Mutiara Timur., jarak 134 meter.
+Belok kiri ke Jalan Kejawen Putih Mutiara 15., jarak 243 meter.
+Belok kanan ke Jalan Kejawen Mutiara Timur 18., jarak 313 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Mengemudi ke Barat di Jalan Teknik Hidrodinamika., jarak 194 meter.
+Belok kanan, jarak 25 meter.
+Belok kiri ke Jalan Teknik Elektro., jarak 443 meter.
+Masuki bundaran dan ambil jalan keluar ke-Ketiga menuju Jalan Teknik Mesin., jarak 360 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Jalan Teknik Mesin., jarak 273 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Jalan Teknik Mesin., jarak 312 meter.
+Belok kiri ke Bundaran ITS., jarak 93 meter.
+Belok kiri ke Kertajaya Indah Regency., jarak 129 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Kertajaya Indah Regency., jarak 398 meter.
+Pertahankan kanan ke Kertajaya Indah Regency., jarak 161 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Kertajaya Indah Regency., jarak 605 meter.
+Belok kiri ke Jalan Arief Rahman Hakim., jarak 1643 meter.
+Pertahankan kiri ke Jalan Keputih Tegal Timur., jarak 149 meter.
+Tujuan Anda berada di kanan., jarak 0 meter.
+Berjalan ke Selatan di Jalan Teknik Hidrodinamika., jarak 106 meter.
+Belok kanan agar tetap di Jalan Teknik Hidrodinamika., jarak 153 meter.
+Belok kiri ke Jalan Teknik Lansekap., jarak 19 meter.
+Belok kiri, jarak 31 meter.
+Belok kanan ke Jembatan Shiratal Mustaqim., jarak 9 meter.
+Lanjutkan di Keputih Gang I., jarak 151 meter.
+Belok kiri ke Keputih Gang I A., jarak 231 meter.
+Belok kanan ke Jalan Keputih Gang II Pasar., jarak 34 meter.
+Belok kiri ke Keputih Gang II A., jarak 61 meter.
+Belok kanan ke Jalan KH. Ahmad Dahlan., jarak 52 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 245 meter.
+Pertahankan kiri untuk memasuki Jalan Keputih Tegal Timur., jarak 149 meter.
+Anda sudah sampai di tujuan,, jarak 0 meter.
+Berjalan ke Barat di Jalan Keputih Perintis IV., jarak 49 meter.
+Belok kiri ke Jalan KH. Ahmad Dahlan., jarak 245 meter.
+Belok kiri ke Jalan Keputih Tegal., jarak 245 meter.
+Pertahankan kanan agar tetap di Jalan Keputih Tegal., jarak 340 meter.
+Belok kiri ke Jalan Raya Marina Asri., jarak 569 meter.
+Tujuan Anda berada di kanan., jarak 0 meter.
+Mengemudi ke Timur., jarak 43 meter.
+Belok kanan, jarak 112 meter.
+Belok kanan, jarak 146 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju Jalan Teknik Mesin., jarak 299 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Jalan Teknik Mesin., jarak 312 meter.
+Belok kiri ke Bundaran ITS., jarak 101 meter.
+Putar balik ke kanan menuju Jalan Raya Kertajaya Indah., jarak 80 meter.
+Pertahankan kiri ke Jalan Raya ITS., jarak 1151 meter.
+Masuki bundaran dan ambil jalan keluar ke-Ketiga menuju Jalan Kejawan Putih Tambak., jarak 590 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1., jarak 157 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Jalan Laguna Kejawen Putih Tambak., jarak 160 meter.
+Belok kiri, jarak 22 meter.
+Belok kanan, jarak 196 meter.
+Tujuan Anda berada di kiri., jarak 0 meter.
+Mengemudi ke Timur., jarak 44 meter.
+Belok kanan, jarak 112 meter.
+Belok kanan, jarak 146 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju Jalan Teknik Mesin., jarak 299 meter.
+Masuki bundaran dan ambil jalan keluar ke-ke-1 menuju Jalan Teknik Mesin., jarak 312 meter.
+Belok kiri ke Bundaran ITS., jarak 1087 meter.
+Belok kiri ke Jalan Dokter Insinyur Haji Soekarno., jarak 7514 meter.
+Masuki bundaran dan ambil jalan keluar ke-Ketiga menuju Jalan Taman Asri., jarak 119 meter.
+Ambil tanjakan AH2 di kanan menuju Waru/Gresik/Mojokerto., jarak 7596 meter.
+Ambil jalan keluar 1 di 8 menuju Waru/Wonokromo/Taman., jarak 31455 meter.
+Ambil jalan keluar Simpang Susun Gempol ke 13 menuju Bangil/Pasuruan/Probolinggo., jarak 65332 meter.
+Ambil jalan keluar 840 di 25 menuju Probolinggo Timur/Lumajang/Situbondo., jarak 1939 meter.
+Belok kanan ke 25/AH2., jarak 8305 meter.
+Belok kanan ke 1/Jalan P.B. Sudirman. Lanjutkan di 1., jarak 55965 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju 1., jarak 37779 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju Jalan Panglima Besar Sudirman., jarak 1081 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju 1/AH2/Jalan Jenderal Achmad Yani., jarak 86159 meter.
+Belok kiri, jarak 163 meter.
+Lewati Ketapang - Gilimanuk Ferry., jarak 4197 meter.
+Mengemudi ke Timur., jarak 109 meter.
+Pertahankan kiri., jarak 246 meter.
+Belok kanan, jarak 103 meter.
+Belok kanan ke AH2/Jalan Raya Denpasar-Gilimanuk., jarak 24115 meter.
+Pertahankan kanan ke AH2/Jalan Raya Denpasar-Gilimanuk. Lanjutkan di AH2., jarak 8916 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju AH2/Ahmad Yani., jarak 7420 meter.
+Belok kiri ke AH2/Jalan Raya Denpasar-Gilimanuk. Lanjutkan di AH2., jarak 18018 meter.
+Belok kanan ke AH2/Jalan Raya Denpasar-Gilimanuk. Lanjutkan di AH2., jarak 30046 meter.
+Pertahankan kanan ke AH2/Jalan Raya Denpasar-Gilimanuk., jarak 3361 meter.
+Pertahankan kanan agar tetap di AH2/Jalan Raya Denpasar-Gilimanuk., jarak 3167 meter.
+Belok kanan agar tetap di AH2/Jalan Raya Denpasar-Gilimanuk., jarak 68 meter.
+Belok kiri agar tetap di AH2/Jalan Raya Denpasar-Gilimanuk., jarak 129 meter.
+Pertahankan kiri agar tetap di AH2/Jalan Raya Denpasar-Gilimanuk., jarak 1837 meter.
+Belok kanan agar tetap di AH2/Jalan Raya Denpasar-Gilimanuk., jarak 6155 meter.
+Belok kanan agar tetap di AH2/Jalan Raya Denpasar-Gilimanuk., jarak 372 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju AH2/Jalan Dokter Insinyur Soekarno., jarak 4026 meter.
+Masuki bundaran dan ambil jalan keluar ke-Kedua menuju AH2/Jalan Raya Denpasar-Gilimanuk., jarak 3544 meter.
+Belok kiri ke AH2/Jalan Raya Denpasar-Gilimanuk., jarak 341 meter.
+Belok kanan ke AH2/Jalan Raya Denpasar-Gilimanuk. Lanjutkan di AH2., jarak 2443 meter.
+Belok kiri ke AH2/Jalan Raya Kapal. Lanjutkan di AH2., jarak 3871 meter.
+Belok kanan ke Jalan Raya Sempidi., jarak 1528 meter.
+Belok kiri ke Jalan Raya Padang Luwih., jarak 4079 meter.
+Belok kiri, jarak 10 meter.
+Belok kanan, jarak 12 meter.
+Pertahankan kiri ke Jalan Raya Kerobokan., jarak 4153 meter.
+Pertahankan kiri ke Sunset Road., jarak 7891 meter.
+Pertahankan kanan ke Terowongan Ngurah Rai., jarak 4458 meter.
+Belok kanan ke Jalan Kampus Unud., jarak 1432 meter.
+Belok kiri ke Jalan Pondok Mekar., jarak 76 meter.
+Belok kanan agar tetap di Jalan Pondok Mekar., jarak 99 meter.
+Belok kiri, jarak 144 meter.
+Belok kanan, jarak 123 meter.
+Tujuan Anda berada di kanan., jarak 0 meter.
