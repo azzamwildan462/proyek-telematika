@@ -1,0 +1,3 @@
+/home/naufaldi/Work/ocr/CMakeFiles/ocr.dir
+/home/naufaldi/Work/ocr/CMakeFiles/edit_cache.dir
+/home/naufaldi/Work/ocr/CMakeFiles/rebuild_cache.dir
