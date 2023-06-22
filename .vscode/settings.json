@@ -3,5 +3,7 @@
         "*.ipp": "cpp",
         "cstring": "cpp",
         "variant": "cpp"
-    }
+    },
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true
 }
