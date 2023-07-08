@@ -1,0 +1,14 @@
+Berjalan ke Timur. jarak 120 meter.
+Belok kanan ke Jalan Teknik Industri. jarak 70 meter.
+Belok kiri ke Jalan Teknik Mesin. jarak 134 meter.
+Belok kanan jarak 12 meter.
+Belok kanan ke Jalan Teknik Elektro. jarak 62 meter.
+Belok kiri ke Jalan Teknik Hidrodinamika. jarak 144 meter.
+Belok kiri jarak 31 meter.
+Belok kanan ke Jembatan Shiratal Mustaqim. jarak 9 meter.
+Lanjutkan di Keputih Gang I. jarak 2 meter.
+Belok kiri ke Keputih Utara Gang Langgar. jarak 307 meter.
+Belok kiri ke Jalan KH. Ahmad Dahlan. jarak 544 meter.
+Pertahankan kiri ke Jalan Kejawan Putih Tambak. jarak 581 meter.
+Belok kanan jarak 51 meter.
+Anda sudah sampai di tujuan, jarak 0 meter.

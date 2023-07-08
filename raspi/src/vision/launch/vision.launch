@@ -1,0 +1,5 @@
+<launch>
+    <!-- <node name="vision_capture" pkg="vision" type="vision_capture" output="screen" respawn="true"/> -->
+    <node name="audio_adapter" pkg="adapter" type="audio_adapter" output="screen" respawn="true"/>
+
+</launch>

@@ -1,0 +1,5 @@
+/home/naufaldi/proyek-telematika/ocr_tts/CMakeFiles/rebuild_cache.dir
+/home/naufaldi/proyek-telematika/ocr_tts/CMakeFiles/edit_cache.dir
+/home/naufaldi/proyek-telematika/ocr_tts/CMakeFiles/test_rs.dir
+/home/naufaldi/proyek-telematika/ocr_tts/CMakeFiles/vision_all.dir
+/home/naufaldi/proyek-telematika/ocr_tts/CMakeFiles/ocr.dir

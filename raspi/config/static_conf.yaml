@@ -1,0 +1,12 @@
+Camera:
+  path: /dev/v4l/by-id/usb-Goodong_Industry_Co.__Ltd._USB2.0_HD_UVC_WebCam_0x0001-video-index0
+
+Realsense:
+  min_distance: 50
+  max_distance: 500
+
+Hardware:
+  toggle0_pin: 1
+  toggle1_pin: 2
+  toggle2_pin: 30
+  toggle3_pin: 4

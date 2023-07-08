@@ -1,0 +1,13 @@
+#include <opencv2/opencv.hpp>
+
+int main() {
+    for (int index = 0; index < 10; ++index) {
+        cv::VideoCapture cap(index);
+        if (cap.isOpened()) {
+            std::cout << "Camera found at index: " << index << std::endl;
+            break;
+        }
+    }
+
+    return 0;
+}
